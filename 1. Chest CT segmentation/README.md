@@ -1,1 +1,1 @@
-# segmentation
+# Chest CT segmentation
