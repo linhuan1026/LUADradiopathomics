@@ -1,4 +1,5 @@
 # 5. Cancer nuclei segmentation on histopathological tiles
+![picture](https://github.com/linhuan1026/LUADradiopathomics/blob/main/5.%20Cancer%20nuclei%20segmentation%20on%20histopathological%20tiles/docs/diagram.png)
 ## Setup Environment
 ```
 conda env create -f environment.yml
@@ -95,7 +96,7 @@ Processing Options:
    --save_raw_map         To save raw prediction or not. [default: False]
 ```
 
-The above command can be used from the command line or via an executable script. We supply two example executable scripts: one for tile processing and one for WSI processing. To run the scripts, first make them executable by using `chmod +x run_infer.sh`. Then run by using `./run_infer.sh`.
+The above command can be used from the command line or via an executable script. We supply two example executable scripts: one for tile processing and one for WSI processing. To run the scripts, first make them executable by using `chmod +x run_tile_TCGA.sh`. Then run by using `./run_title_TCGA.sh`.
 
 Intermediate results are stored in cache. Therefore, ensure that the specified cache location has enough space! Preferably ensure that the cache location is SSD.
 
