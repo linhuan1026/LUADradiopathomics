@@ -1,5 +1,4 @@
 # 5. Cancer nuclei segmentation on histopathological tiles
-![picture](https://github.com/linhuan1026/LUADradiopathomics/blob/main/5.%20Cancer%20nuclei%20segmentation%20on%20histopathological%20tiles/docs/diagram.png)
 ## Setup Environment
 ```
 conda env create -f environment.yml
