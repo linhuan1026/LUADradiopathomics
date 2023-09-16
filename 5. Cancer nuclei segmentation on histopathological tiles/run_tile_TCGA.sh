@@ -1,7 +1,7 @@
-python run_infer.py \
+python run_infer_feng.py \
 --gpu='0' \
 --nr_types=6 \
---type_info_path=type_info_pan.json \
+--type_info_path=type_info.json \
 --batch_size=16 \
 --model_mode=fast \
 --model_path=./weights/hovernet_fast_pannuke_type_tf2pytorch.tar \
