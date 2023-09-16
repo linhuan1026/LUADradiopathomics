@@ -2,7 +2,7 @@
 ## Setup Environment
 ```
 conda env create -f environment.yml
-conda activate smile
+conda activate hovernet
 pip install torch==1.7.1 torchvision==0.8.2
 ```
 Above, we install PyTorch version 1.7.1 with CUDA 11.0
