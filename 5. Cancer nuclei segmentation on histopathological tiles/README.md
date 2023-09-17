@@ -62,6 +62,8 @@ Output:
     * 'inst_map': instance map containing values from 0 to N, where N is the number of nuclei
     * 'inst_type': list of length N containing predictions for each nucleus
 * Image tiles output a `png` overlay of nuclear boundaries on top of original RGB image
+### Model Weights
+Model weights obtained from training can be supplied from [here](https://pan.baidu.com/s/12PVz2QycxkJL5YmrzE3sbw?pwd=5fqg).
 ### Usage and Options
 Usage:
 ```
