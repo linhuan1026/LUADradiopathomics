@@ -1,0 +1,16 @@
+numpy>=1.9.2
+SimpleITK>=0.9.1
+six>=1.10.0
+scikit-image>=0.19.2
+scikit-learn>=1.1.1
+opencv-python>=4.5.5.64
+pykwalify>=1.6.0
+libtiff>=0.4.2
+large-image>=1.14.5
+large-image-source-tiff>=1.14.5
+large-image-source-openslide>=1.14.5
+large-image-source-pil>=1.14.5
+pandas>=1.4.2
+matplotlib>=3.5.2
+lazy-property>=0.0.1
+Shapely>=1.8.2
