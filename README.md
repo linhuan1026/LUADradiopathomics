@@ -1,0 +1,1 @@
+This is an automated multimodal radiopathological integration framework that comprehensively characterised intratumoural heterogeneity and the tumour microenvironment using CT images and H&E-stained whole-slide images (WSIs) routinely generated in clinical practice.
