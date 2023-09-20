@@ -67,9 +67,9 @@ Model weights obtained from training can be supplied from [here](https://pan.bai
 ### Usage and Options
 Usage:
 ```
-run_infer.py [options] [--help] <command> [<args>...]
-run_infer.py --version
-run_infer.py (-h | --help)
+run_infer_feng.py [options] [--help] <command> [<args>...]
+run_infer_feng.py --version
+run_infer_feng.py (-h | --help)
 ```
 Options:
 ```
