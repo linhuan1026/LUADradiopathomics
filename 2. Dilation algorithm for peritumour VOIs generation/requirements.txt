@@ -1,0 +1,7 @@
+numpy~=1.21.6
+simpleitk~=2.2.1
+opencv-python~=4.8.0.76
+tqdm~=4.64.1
+scipy~=1.7.3
+scikit-image~=0.19.3
+lungmask~=0.2.16
