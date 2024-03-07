@@ -1,0 +1,18 @@
+{
+ "model": "resnet50",
+ "use_crf": false,
+ "batch_size": 32,
+ "image_size": 768,
+ "patch_size": 256,
+ "crop_size": 224,
+ "lr": 0.001,
+ "momentum": 0.9,
+ "data_path_tumor_train": "E:/ZS6DATA/PATCH/train/tumor/",
+ "data_path_non_tumor_train": "E:/ZS6DATA/PATCH/train/non_tumor/",
+ "data_path_tumor_valid": "E:/ZS6DATA/PATCH/valid/tumor/",
+ "data_path_non_tumor_valid": "E:/ZS6DATA/PATCH/valid/non_tumor/",
+ "json_path_train": "E:/ZS6-RC/training/json_cell/",
+ "json_path_valid": "E:/ZS6-RC/valid/json_cell/",
+ "epoch": 50,
+ "log_every": 5
+}

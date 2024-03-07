@@ -1,0 +1,13 @@
+{
+  "model": "resnet50",
+  "batch_size": 48,
+  "image_size": 256,
+  "crop_size": 224,
+  "normalize": "True",
+  "lr": 0.001,
+  "momentum": 0.9,
+  "data_path_train": "/opt/home/wangyumeng/code/DATA/camelyon16/patches/image/train/",
+  "data_path_valid": "/opt/home/wangyumeng/code/DATA/camelyon16/patches/image/valid/",
+  "epoch": 50,
+  "log_every": 5
+}
