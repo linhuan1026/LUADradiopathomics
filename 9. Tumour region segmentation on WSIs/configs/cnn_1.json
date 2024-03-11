@@ -1,0 +1,12 @@
+{
+ "model": "resnet50",
+ "batch_size": 128,
+ "image_size": 224,
+ "normalize": "True",
+ "lr": 0.0001,
+ "momentum": 0.9,
+ "data_path_train": "YourPath/Camelyon16/img_patch/train/",
+ "data_path_valid": "YourPath/Camelyon16/img_patch/valid/",
+ "epoch": 20,
+ "log_every": 5
+}
